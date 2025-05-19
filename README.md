@@ -3,7 +3,7 @@
 **Analysis of Major Tech Companies' Employment and Performance in the Aftermath of COVID and Rise of AI**
 
 ## Overview
-This project presents an interactive Tableau dashboard and analytical report exploring the evolving relationship between employment dynamics—especially H-1B visa trends—and stock performance across major tech companies, post-COVID and during the rise of artificial intelligence.
+This project presents an interactive Tableau dashboard and analytical report exploring the evolving relationship between employment dynamics, especially H-1B visa trends and stock performance across major tech companies, post-COVID and during the rise of artificial intelligence.
 
 We focus on:
 - H-1B visa approvals/denials (2023–2024)
@@ -40,4 +40,7 @@ A focused case study on Meta examining how stock performance aligns with H-1B de
 - Tableau  
 - Python (for data preparation)  
 - Excel/CSV datasets  
-- GitHub (for version control and sharing)  
+- GitHub (for version control and sharing)
+
+> This repository is part of a course project for *Visual Analytics Dashboards* at Syracuse University, conducted in Spring 2025
+
